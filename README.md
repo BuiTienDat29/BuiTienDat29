@@ -1,18 +1,18 @@
+# 👋 Xin chào, mình là Bùi Tiến Đạt
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Bùi%20Tiến%20Đạt&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=60" />
-
-# 👋 Xin chào, mình là Bùi Tiến Đạt
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Bùi%20Tiến%20Đạt&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=60"/>
 
 ### 🚀 Fullstack Developer | Java Spring Boot | React | TypeScript
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java+Spring+Boot;React+%26+TypeScript;DDD+%26+Hexagonal+Architecture;Luôn+học+hỏi+và+phát+triển+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Java+Spring+Boot;React+%26+TypeScript;DDD+%26+Hexagonal+Architecture;Luôn+học+hỏi+và+phát+triển+🚀"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 Giới thiệu bản thân
+# 🧑‍💻 Giới thiệu
 
 ```yaml
 Họ tên: Bùi Tiến Đạt
@@ -29,8 +29,13 @@ Frontend:
   - ReactJS
   - TypeScript
 
+Database:
+  - MySQL
+  - PostgreSQL
+  - Redis
+
 Quan tâm:
-  - DDD (Domain Driven Design)
+  - DDD
   - Hexagonal Architecture
   - Clean Architecture
   - System Design
@@ -55,7 +60,7 @@ Mục tiêu:
 
 ## 🎬 DATN - Movie Booking App
 
-Đồ án tốt nghiệp xây dựng hệ thống đặt vé xem phim hiện đại.
+> Đồ án tốt nghiệp xây dựng hệ thống đặt vé xem phim hiện đại.
 
 ✨ Công nghệ:
 
@@ -71,7 +76,7 @@ Mục tiêu:
 
 ## 🎓 Quizz AI
 
-Nền tảng tạo và luyện thi trắc nghiệm thông minh.
+> Nền tảng tạo và luyện thi trắc nghiệm thông minh.
 
 ✨ Tính năng:
 
@@ -84,7 +89,7 @@ Nền tảng tạo và luyện thi trắc nghiệm thông minh.
 
 ## 🍞 Bakery Management
 
-Hệ thống quản lý tiệm bánh.
+> Hệ thống quản lý tiệm bánh.
 
 * Spring Boot
 * React
@@ -95,7 +100,7 @@ Hệ thống quản lý tiệm bánh.
 
 ## 📚 Library Management
 
-Hệ thống quản lý thư viện.
+> Hệ thống quản lý thư viện.
 
 * Java
 * Spring Boot
@@ -106,7 +111,7 @@ Hệ thống quản lý thư viện.
 
 ## ✅ Todo App
 
-Ứng dụng quản lý công việc cá nhân.
+> Ứng dụng quản lý công việc cá nhân.
 
 * Java
 * Spring Boot
@@ -114,39 +119,49 @@ Hệ thống quản lý thư viện.
 
 ---
 
-# 📈 Thống kê GitHub
+# 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BuiTienDat29&show_icons=true&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=BuiTienDat29&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDat29&layout=compact&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuiTienDat29&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Chuỗi đóng góp
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BuiTienDat29&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BuiTienDat29&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Biểu đồ đóng góp
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/BuiTienDat29/BuiTienDat29/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/BuiTienDat29/BuiTienDat29/output/github-contribution-grid-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/BuiTienDat29/BuiTienDat29/output/github-contribution-grid-snake.svg">
+
+<img alt="github contribution grid snake"
+ src="https://raw.githubusercontent.com/BuiTienDat29/BuiTienDat29/output/github-contribution-grid-snake.svg"> </picture>
 
 </div>
 
 ---
 
-# 🌟 Lượt xem hồ sơ
+# 🌟 Profile Views
 
 <div align="center">
 
@@ -158,13 +173,13 @@ Hệ thống quản lý thư viện.
 
 # 📫 Liên hệ với mình
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:tiendat294204@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="[https://www.facebook.com/datkundka](https://www.facebook.com/datkunkka)">
+<a href="https://www.facebook.com/datkunkka">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
@@ -172,13 +187,13 @@ Hệ thống quản lý thư viện.
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### ✨ "Code - Học hỏi - Xây dựng - Phát triển"
+### ✨ Code • Learn • Build • Grow
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
 
